@@ -1,0 +1,5 @@
+CREATE PACKADGE PACK01 IS
+
+global_val    NUMBER := 0;
+
+END PACKADGE;
